@@ -1,0 +1,4 @@
+kam_bus_sys_user:
+    resource: "@KamBusSysUserBundle/Resources/config/routing.yml"
+    prefix:   /
+
